@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gulam shahal Kolakkadan
 ===============================================================================================================================================
 
-I am a Data Scientist
+I'm a Data Scientist Aspirant
 ---------------------
 
 A data scientist is a professional who is trained in various statistical, computational, and data analysis techniques. Their main role is to extract insights from large and complex data sets, and to use this information to help organizations make data-driven decisions. Data scientists work with various tools and technologies to collect, clean, process, and analyze data. They use programming languages such as Python and R, as well as databases, big data frameworks, and machine learning algorithms. Data scientists also need strong communication skills to translate their findings into actionable insights for stakeholders, including executives, managers, and other non-technical audiences. They often work in interdisciplinary teams, collaborating with software engineers, data engineers, and business analysts. In summary, data scientists are highly skilled professionals who use their expertise in statistics, programming, and data analysis to extract insights from complex data sets and help organizations make informed decisions.
